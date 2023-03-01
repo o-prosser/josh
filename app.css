@@ -57,3 +57,7 @@
 	transform: scale(1.1) rotate(2deg);
 }
 
+.join {
+	max-width: 1024px;
+	margin: 0 auto;
+}
